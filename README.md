@@ -1,6 +1,6 @@
-# discollama
+# discord bot
 
-`discollama` is a Discord bot powered by a local large language model backed by [Ollama](https://github.com/ollama/ollama).
+A Discord bot powered by a local large language model backed by [Ollama](https://github.com/ollama/ollama).
 
 ## Dependencies
 
